@@ -1,0 +1,12 @@
+#!/usr/bin/env sh
+
+PWD=$(dirname $(realpath "$0"))
+DIR=$(realpath $PWD/../..)
+
+export NODE_PATH="$DIR/node_modules:$NODE_PATH"
+
+exec node \
+  --trace-uncaught \
+  --expose-gc \
+  --loader "@iuser/node-loader" \
+  --unhandled-rejections=strict $@

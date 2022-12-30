@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@iuser/node-loader": "^0.0.46"
+  }
+}
