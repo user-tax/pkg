@@ -1,7 +1,7 @@
 `export * as set from './post/set.js'`
 
 > ~/ERR > ACCOUNT_EXIST ERR_ACCOUNT_OR_PASSWORD ERR_CODE
-  ~/http/Err > ERR
+  ~/Http/Err > ERR
   ./hook:
   ./pg/signup:_signup
   ./pg/uidByMailId

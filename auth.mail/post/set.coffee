@@ -1,6 +1,6 @@
 > ~/pkg/u/canEdit
   ~/ERR > USED ERR_CODE
-  ~/http/Err > ERR
+  ~/Http/Err > ERR
   ~/R > R R_UID_MAIL
   ~/pkg/Core/sk > skVerify
   ../pg/uidByMailId
