@@ -1,6 +1,6 @@
 #!/usr/bin/env coffee
 
-> ~/init/conf > DIR_PKG
+> ~/init/conf > ROOT
   ~/CONF > PKG
   ../index > PG
   ../PG_URI
@@ -22,7 +22,7 @@ exe = (sql)=>
 < default main = =>
   for pkg from PKG
     for name from ['extension','table']
-      fp = join DIR_PKG,pkg,"init/pg/#{name}.sql"
+      fp = join ROOT,pkg,"init/pg/#{name}.sql"
       if existsSync fp
         console.log greenBright fp
         sql = read fp
