@@ -2,7 +2,7 @@
   utax/u8 > U8 u8eq u8merge
   ~/pkg/Core/sk > SK
   ~/pkg/Core/pg/clientNew
-  ~/pkg/redis/ID
+  ~/pkg/Redis/ID
 
 {CLIENT_ID} = ID
 

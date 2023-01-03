@@ -13,7 +13,7 @@
   ~/pkg/auth/way > MAIL
   ~/pkg/captcha
   ~/pkg/Core/sk > skVerify
-  ~/pkg/pg > EXE
+  ~/pkg/Pg > EXE
   ~/pkg/u/USER_LOG > NAME
   ~/pkg/u/canEdit
   ./lib > mailValid sendMail

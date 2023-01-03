@@ -1,6 +1,6 @@
 // NOT EDIT : use sh/gen/sql_func.coffee gen
 
-import {UNSAFE} from '~/pkg/pg/index'
+import {UNSAFE} from '~/pkg/Pg/index'
 
 export default (client_id,ip,browser_name,browser_ver,os_name,os_ver,device_vendor,device_model)=>{
   return UNSAFE(
