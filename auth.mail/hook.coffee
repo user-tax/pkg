@@ -1,7 +1,7 @@
 #!/usr/bin/env coffee
 
 > ../auth/uidAccount > WAY_ACCOUNT
-  ~/pkg/auth/way > MAIL
+  ~//auth/way > MAIL
   ~/R
 
 WAY_ACCOUNT.set(

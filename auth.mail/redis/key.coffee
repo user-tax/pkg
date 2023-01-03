@@ -1,4 +1,4 @@
-> ~/pkg/Redis/$
+> ~//Redis/$
   utax/utf8 > utf8e
 
 < R_MAIL = utf8e '{mail}'

@@ -1,4 +1,4 @@
-> ~/pkg/Redis/$
+> ~//Redis/$
 
 < R_AUTH_WAY = $ [3],'sadd smembers'
 

@@ -10,12 +10,12 @@
   utax/time > Second
   utax/u8 > u8merge u8eq
   ~/R > R R_USER_NAME R_CLIENT_USER R_AUTH_WAY R_AUTH_LAST R_UID_MAIL
-  ~/pkg/auth/way > MAIL
-  ~/pkg/captcha
-  ~/pkg/Core/sk > skVerify
-  ~/pkg/Pg > EXE
-  ~/pkg/u/USER_LOG > NAME
-  ~/pkg/u/canEdit
+  ~//auth/way > MAIL
+  ~//captcha
+  ~//Core/sk > skVerify
+  ~//Pg > EXE
+  ~//u/USER_LOG > NAME
+  ~//u/canEdit
   ./lib > mailValid sendMail
 
 SIGNUP = 'signup'

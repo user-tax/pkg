@@ -1,10 +1,10 @@
 > marked > marked
   utax/split
-  ~/pkg/Mail/MailTmpl
-  ~/pkg/Mail/smtp
+  ~//Mail/MailTmpl
+  ~//Mail/smtp
   ~/ERR > ACCOUNT_INVALID ACCOUNT_TOO_LONG ACCOUNT_MAIL_HOST_BAN
   ~/R > R R_MAIL_BAN_HOST
-  ~/pkg/Core/sk > skCode
+  ~//Core/sk > skCode
   ./I18N
 
 < mailValid = (account)=>

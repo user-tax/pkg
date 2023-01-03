@@ -3,7 +3,7 @@
 > utax/req > reqText
   utax/write
   path > join
-  ~/pkg/auth.mail/init/conf > PWD
+  ~//auth.mail/init/conf > PWD
 
 PROXY="https://ghproxy.com/https:"
 

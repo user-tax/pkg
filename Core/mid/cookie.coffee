@@ -1,8 +1,8 @@
 > @u6x/ru > b64 unb64 randomBytes cookieDecode cookieEncode xxh64 ipBin zipU64 unzipU64
   utax/u8 > U8 u8eq u8merge
-  ~/pkg/Core/sk > SK
-  ~/pkg/Core/pg/clientNew
-  ~/pkg/Redis/ID
+  ~//Core/sk > SK
+  ~//Core/pg/clientNew
+  ~//Redis/ID
 
 {CLIENT_ID} = ID
 

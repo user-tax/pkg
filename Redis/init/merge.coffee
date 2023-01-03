@@ -18,7 +18,7 @@ ROOT = dirname(PWD)
   for pkg from PKG
     if not existsSync join(DIR_PKG,pkg,fp)
       continue
-    li.push export_form("'~/pkg/#{pkg}/#{fp}'")
+    li.push export_form("'~//#{pkg}/#{fp}'")
 
   write(
     join ROOT, ofp

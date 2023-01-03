@@ -1,4 +1,4 @@
-> ~/pkg/Redis/$
+> ~//Redis/$
 
 ```
 export const {
