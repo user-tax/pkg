@@ -4,10 +4,10 @@
   utax/write
   ./conf > PWD
   ~/CONF > PKG
-  ~/init/conf > DIR_PKG
+  ~/init/conf > ROOT
   path > dirname join
 
-ROOT = dirname(PWD)
+REDIS_ROOT = dirname(PWD)
 
 < gen = ([fp, ofp, export_form, init])=>
   li = []
@@ -16,12 +16,12 @@ ROOT = dirname(PWD)
     li.push init
 
   for pkg from PKG
-    if not existsSync join(DIR_PKG,pkg,fp)
+    if not existsSync join(ROOT,pkg,fp)
       continue
     li.push export_form("'~/#{pkg}/#{fp}'")
 
   write(
-    join ROOT, ofp
+    join REDIS_ROOT, ofp
     li.join('\n')
   )
   return

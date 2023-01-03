@@ -7,7 +7,7 @@
   path > join
   @u6x/ru > z85Dump
   ~/CONF > PKG
-  ~/init/conf > DIR_PKG
+  ~/init/conf > ROOT
 
 bin2luaStr = (bin)=>
   li = []
@@ -97,7 +97,7 @@ init = (lua)=>
 < default main = =>
   REDIS_LUA = []
   for mod from PKG
-    fp = join DIR_PKG,mod,'init/redis.lua'
+    fp = join ROOT,mod,'init/redis.lua'
     if existsSync fp
       console.log fp
       REDIS_LUA.push read fp
