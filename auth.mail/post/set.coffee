@@ -1,8 +1,8 @@
-> ~//u/canEdit
+> ~/u/canEdit
   ~/ERR > USED ERR_CODE
   ~/Http/Err > ERR
   ~/R > R R_UID_MAIL
-  ~//Core/sk > skVerify
+  ~/Core/sk > skVerify
   ../pg/uidByMailId
   ../pg/mailSet
   ../lib > mailValid sendMail

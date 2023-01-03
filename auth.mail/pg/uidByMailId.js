@@ -1,6 +1,6 @@
 // NOT EDIT : use sh/gen/sql_func.coffee gen
 
-import {UNSAFE} from '~//Pg/index'
+import {UNSAFE} from '~/Pg/index'
 
 export default async (mail_id)=>{
   return (await UNSAFE(

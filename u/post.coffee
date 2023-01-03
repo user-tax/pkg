@@ -1,6 +1,6 @@
 > @u6x/ru > zipU64 binU64 u64Bin
   ~/R > R R_CLIENT_USER R_USER_NAME R_AUTH_WAY
-  ~//auth/uidAccount:@ > uidWay
+  ~/auth/uidAccount:@ > uidWay
   ./canEdit
   utax/wcut
 

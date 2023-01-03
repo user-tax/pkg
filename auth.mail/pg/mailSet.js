@@ -1,6 +1,6 @@
 // NOT EDIT : use sh/gen/sql_func.coffee gen
 
-import {UNSAFE} from '~//Pg/index'
+import {UNSAFE} from '~/Pg/index'
 
 export default (mail_id,uid)=>{
   return UNSAFE(
