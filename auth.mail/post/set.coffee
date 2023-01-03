@@ -2,7 +2,7 @@
   ~/ERR > USED ERR_CODE
   ~/http/Err > ERR
   ~/R > R R_UID_MAIL
-  ~/pkg/core/sk > skVerify
+  ~/pkg/Core/sk > skVerify
   ../pg/uidByMailId
   ../pg/mailSet
   ../lib > mailValid sendMail

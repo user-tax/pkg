@@ -4,7 +4,7 @@
   ~/pkg/mail/smtp
   ~/ERR > ACCOUNT_INVALID ACCOUNT_TOO_LONG ACCOUNT_MAIL_HOST_BAN
   ~/R > R R_MAIL_BAN_HOST
-  ~/pkg/core/sk > skCode
+  ~/pkg/Core/sk > skCode
   ./I18N
 
 < mailValid = (account)=>

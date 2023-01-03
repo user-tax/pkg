@@ -12,7 +12,7 @@
   ~/R > R R_USER_NAME R_CLIENT_USER R_AUTH_WAY R_AUTH_LAST R_UID_MAIL
   ~/pkg/auth/way > MAIL
   ~/pkg/captcha
-  ~/pkg/core/sk > skVerify
+  ~/pkg/Core/sk > skVerify
   ~/pkg/pg > EXE
   ~/pkg/u/USER_LOG > NAME
   ~/pkg/u/canEdit
