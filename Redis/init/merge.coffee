@@ -4,7 +4,7 @@
   utax/write
   ./conf > PWD
   ~/CONF > PKG
-  ~/init/conf > ROOT
+  ~/Init/conf > ROOT
   path > dirname join
 
 REDIS_ROOT = dirname(PWD)
