@@ -1,0 +1,10 @@
+- Core
+- Http
+- Mail
+- Pg
+- Redis
+- auth
+- auth.mail
+- captcha
+- test
+- u
