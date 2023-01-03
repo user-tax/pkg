@@ -1,5 +1,5 @@
 > ~/R > R_CAPTCHA
-  ~/Http/Err > ERR_CAPTCHA
+  ~/http/Err > ERR_CAPTCHA
   @u6x/ru > unzipU64 z85Load
 
 < ({type:captcha}) =>
