@@ -1,1 +1,1 @@
-../../core/init/conf.coffee
+../../Core/init/conf.coffee
