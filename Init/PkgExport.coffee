@@ -1,7 +1,7 @@
 #!/usr/bin/env coffee
 
 > path > join dirname basename
-  ~/CONF > PKG
+  ~/PKG
   ~/ROOT
   fs > readdirSync existsSync
   utax/camel

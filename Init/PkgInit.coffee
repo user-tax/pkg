@@ -1,6 +1,6 @@
 #!/usr/bin/env coffee
 
-> ~/CONF > PKG
+> ~/PKG
   path > join
   fs > existsSync
   utax/read

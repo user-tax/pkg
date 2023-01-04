@@ -1,7 +1,7 @@
 #!/usr/bin/env coffee
 
 > ~/ROOT
-  ~/CONF > PKG
+  ~/PKG
   json5
   fs > existsSync
   path > join

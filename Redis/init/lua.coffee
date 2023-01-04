@@ -6,7 +6,7 @@
   ~/Redis:R
   path > join
   @u6x/ru > z85Dump
-  ~/CONF > PKG
+  ~/PKG
   ~/Init/ROOT
 
 bin2luaStr = (bin)=>

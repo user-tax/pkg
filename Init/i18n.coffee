@@ -1,7 +1,7 @@
 #!/usr/bin/env coffee
 
 > ~/ROOT
-  ~/CONF > PKG
+  ~/PKG
   path > join
   fs > existsSync
   utax/camel

@@ -1,7 +1,7 @@
 #!/usr/bin/env coffee
 
 > ~/Init/ROOT
-  ~/CONF > PKG
+  ~/PKG
   ../index > PG
   ../PG_URI
   fs > existsSync

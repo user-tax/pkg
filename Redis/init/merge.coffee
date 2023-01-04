@@ -3,7 +3,7 @@
 > fs > existsSync
   utax/write
   ./conf > PWD
-  ~/CONF > PKG
+  ~/PKG
   ~/Init/ROOT
   path > dirname join
 
