@@ -1,6 +1,6 @@
 #!/usr/bin/env coffee
 
-> utax/req > reqText
+> utax/retryReq > reqText
   utax/write
   path > join
   ~/auth.mail/init/conf > PWD
