@@ -1,7 +1,7 @@
 > @user.tax/captcha-img
   utax/u8 > U8
   @user.tax/captcha-img/D.js # svg path
-  ~/R > R_CAPTCHA R_CAPTCHA_IP_LIMIT
+  ~/Redis > R_CAPTCHA R_CAPTCHA_IP_LIMIT
   @u6x/ru > z85Dump randomBytes svgWebp ipBin zipU64
 
 # 返回验证码 加密的位置和图片id

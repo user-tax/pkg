@@ -1,4 +1,4 @@
-> ~/R > R_CAPTCHA
+> ~/Redis > R_CAPTCHA
   ~/Http/Err > ERR_CAPTCHA
   @u6x/ru > unzipU64 z85Load
 

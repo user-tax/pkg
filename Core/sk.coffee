@@ -1,5 +1,5 @@
 > utax/msgpack > pack unpack
-  ~/R > R R_CONF
+  ~/Redis > R R_CONF
   @u6x/ru > xxh3B36
   utax/time > Hour
 

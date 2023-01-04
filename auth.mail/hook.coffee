@@ -2,7 +2,7 @@
 
 > ../auth/uidAccount > WAY_ACCOUNT
   ~/auth/way > MAIL
-  ~/R
+  ~/Redis:R
 
 WAY_ACCOUNT.set(
   MAIL

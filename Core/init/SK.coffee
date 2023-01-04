@@ -1,6 +1,6 @@
 #!/usr/bin/env coffee
 
-> ~/R > R R_CONF
+> ~/Redis > R R_CONF
   @u6x/ru > randomBytes
 
 < default main = =>

@@ -1,6 +1,6 @@
 #!/usr/bin/env coffee
 
-> ~/R > R R_AUTH_LAST R_AUTH_WAY
+> ~/Redis > R R_AUTH_LAST R_AUTH_WAY
   @u6x/ru > u64Bin binU64
 
 < WAY_ACCOUNT = new Map()

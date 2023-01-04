@@ -1,5 +1,5 @@
 > @u6x/ru > u64Bin
-  ~/R > R R_CLIENT_USER
+  ~/Redis > R R_CLIENT_USER
 
 < (func)=>
   (args...)->

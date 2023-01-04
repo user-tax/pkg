@@ -1,4 +1,4 @@
-> ~/R > R R_ID
+> ~/Redis > R R_ID
   utax/time > Second
   utax/camel
 

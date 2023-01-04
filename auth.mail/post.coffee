@@ -9,7 +9,7 @@
   utax/wcut
   utax/time > Second
   utax/u8 > u8merge u8eq
-  ~/R > R R_USER_NAME R_CLIENT_USER R_AUTH_WAY R_AUTH_LAST R_UID_MAIL
+  ~/Redis > R R_USER_NAME R_CLIENT_USER R_AUTH_WAY R_AUTH_LAST R_UID_MAIL
   ~/auth/way > MAIL
   ~/captcha
   ~/Core/sk > skVerify

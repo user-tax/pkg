@@ -1,7 +1,7 @@
 #!/usr/bin/env coffee
 
 > utax/read
-  ~/R > R R_MAIL_BAN_HOST
+  ~/Redis > R R_MAIL_BAN_HOST
   path > join
   ./conf > PWD
 

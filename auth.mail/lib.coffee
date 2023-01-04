@@ -3,7 +3,7 @@
   ~/Mail/MailTmpl
   ~/Mail/smtp
   ~/ERR > ACCOUNT_INVALID ACCOUNT_TOO_LONG ACCOUNT_MAIL_HOST_BAN
-  ~/R > R R_MAIL_BAN_HOST
+  ~/Redis > R R_MAIL_BAN_HOST
   ~/Core/sk > skCode
   ./I18N
 
