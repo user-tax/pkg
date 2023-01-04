@@ -7,7 +7,7 @@
   path > join
   @u6x/ru > z85Dump
   ~/CONF > PKG
-  ~/Ini~/ROOT
+  ~/Init/ROOT
 
 bin2luaStr = (bin)=>
   li = []

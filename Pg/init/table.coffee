@@ -1,6 +1,6 @@
 #!/usr/bin/env coffee
 
-> ~/Ini~/ROOT
+> ~/Init/ROOT
   ~/CONF > PKG
   ../index > PG
   ../PG_URI
