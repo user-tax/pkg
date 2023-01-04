@@ -7,7 +7,7 @@
   path > join
   @u6x/ru > z85Dump
   ~/MOD
-  ~/Init/ROOT
+  ~/ROOT
 
 bin2luaStr = (bin)=>
   li = []

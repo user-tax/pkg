@@ -8,7 +8,7 @@
   utax/read
   utax/split
   utax/walk > walkRel
-  ~/R
+  ~/Redis:R
 
 < default main = =>
   ing = []
