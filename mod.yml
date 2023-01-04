@@ -1,11 +1,14 @@
-- Init
-- Core
-- Http
-- Mail
-- Pg
-- Redis
-- auth
-- auth.mail
-- captcha
-- test
-- u
+. :
+  - Init
+  - Core
+  - Http
+  - Mail
+  - Pg
+  - Redis
+  - auth
+  - captcha
+  - test
+  - u
+
+auth.mail :
+  - auth.mail
