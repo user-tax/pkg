@@ -3,7 +3,7 @@
 > utax/read
   utax/u8 > U8 u8eq
   fs > existsSync
-  ~/R
+  ~/Redis:R
   path > join
   @u6x/ru > z85Dump
   ~/CONF > PKG

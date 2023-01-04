@@ -1,6 +1,6 @@
 #!/usr/bin/env coffee
 
-> ~/R
+> ~/Redis:R
   @u6x/ru > u64Bin
 
 id = 1
