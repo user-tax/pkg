@@ -2,7 +2,6 @@
   - Init
   - Core
   - Http
-  - Mail
   - Pg
   - Redis
   - auth
@@ -11,4 +10,5 @@
   - u
 
 auth.mail :
+  - Mail
   - auth.mail
