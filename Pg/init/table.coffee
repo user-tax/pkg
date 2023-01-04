@@ -1,7 +1,7 @@
 #!/usr/bin/env coffee
 
 > ~/Init/ROOT
-  ~/PKG
+  ~/MOD
   ../index > PG
   ../PG_URI
   fs > existsSync
@@ -20,7 +20,7 @@ exe = (sql)=>
   return
 
 < default main = =>
-  for pkg from PKG
+  for pkg from MOD
     for name from ['extension','table']
       fp = join ROOT,pkg,"init/pg/#{name}.sql"
       if existsSync fp

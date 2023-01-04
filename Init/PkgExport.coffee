@@ -1,7 +1,7 @@
 #!/usr/bin/env coffee
 
 > path > join dirname basename
-  ~/PKG
+  ~/MOD
   ~/ROOT
   fs > readdirSync existsSync
   utax/camel
@@ -13,7 +13,7 @@ EXPORT = 'const EXPORT = [];\nexport default EXPORT;'
 
 genMid = =>
   li = [EXPORT]
-  for pkg from PKG
+  for pkg from MOD
     fp = join(ROOT,pkg,'mid')
     if existsSync fp
       for i from readdirSync fp
@@ -26,7 +26,7 @@ genMid = =>
   return
 
 genIndex = =>
-  for pkg from PKG
+  for pkg from MOD
     index_js = 'index.js'
     dir = join ROOT, pkg
     if not existsSync join dir,'index.js'

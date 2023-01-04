@@ -3,7 +3,7 @@
 > fs > existsSync
   utax/write
   ./conf > PWD
-  ~/PKG
+  ~/MOD
   ~/Init/ROOT
   path > dirname join
 
@@ -15,7 +15,7 @@ REDIS_ROOT = dirname(PWD)
   if init
     li.push init
 
-  for pkg from PKG
+  for pkg from MOD
     if not existsSync join(ROOT,pkg,fp)
       continue
     li.push export_form("'~/#{pkg}/#{fp}'")

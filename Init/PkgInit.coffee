@@ -1,6 +1,6 @@
 #!/usr/bin/env coffee
 
-> ~/PKG
+> ~/MOD
   path > join
   fs > existsSync
   utax/read
@@ -10,7 +10,7 @@
 
 {blueBright} = chalk
 
-< default main = (pkg=PKG)=>
+< default main = (pkg=MOD)=>
   for mod from pkg
     if not existsSync join ROOT,mod,'init.js'
       continue

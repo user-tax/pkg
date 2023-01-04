@@ -1,7 +1,7 @@
 #!/usr/bin/env coffee
 
 > ~/ROOT
-  ~/PKG
+  ~/MOD
   json5
   fs > existsSync
   path > join
@@ -15,7 +15,7 @@
     export default MOD\n
     '''
   ]
-  for pkg from PKG
+  for pkg from MOD
     dir = join ROOT,pkg
 
     if not existsSync join dir,'post.js'

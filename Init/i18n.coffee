@@ -1,7 +1,7 @@
 #!/usr/bin/env coffee
 
 > ~/ROOT
-  ~/PKG
+  ~/MOD
   path > join
   fs > existsSync
   utax/camel
@@ -12,7 +12,7 @@
 
 < default main = =>
   ing = []
-  for pkg from PKG
+  for pkg from MOD
     dir = join ROOT,pkg,'i18n'
     if existsSync dir
       console.log dir
