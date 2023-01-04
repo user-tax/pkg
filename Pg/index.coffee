@@ -3,7 +3,7 @@
 > ./PgConn
   ./PG_UINT.js
   chalk
-  ~/Http/conf > DEBUG
+  ~/Http/CONF > DEBUG
 
 {red,bgRedBright,greenBright,gray} = chalk
 

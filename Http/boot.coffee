@@ -5,7 +5,7 @@
   utax/cookie2dict
   utax/streamBuffer
   ulb/headerLi
-  ./conf > DEBUG CPU_NUM API_PORT
+  ./CONF > DEBUG CPU_NUM API_PORT
   ./HEADER
   ulb/Ip
 

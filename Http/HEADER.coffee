@@ -1,5 +1,5 @@
 > utax/render:
-  ./conf > DEBUG
+  ./CONF > DEBUG
 
 export default HEADER = {
   'Access-Control-Allow-Headers':'content-type'

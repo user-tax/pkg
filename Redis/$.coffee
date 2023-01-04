@@ -1,6 +1,6 @@
 > utax/u8 > U8
   utax/utf8 > utf8e
-  ~/Http/conf > DEBUG
+  ~/Http/CONF > DEBUG
 
 if DEBUG
   {default:assert} = await import('assert/strict')

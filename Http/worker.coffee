@@ -6,7 +6,7 @@
   utax/streamBuffer
   worker_threads > parentPort
   zlib > createBrotliCompress
-  ./conf > HOST
+  ./CONF > HOST
   ./Err > HttpErr
   ~/MID
 
