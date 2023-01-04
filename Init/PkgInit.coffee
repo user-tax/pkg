@@ -5,7 +5,7 @@
   fs > existsSync
   utax/read
   chalk
-  ./conf > ROOT
+  ~/ROOT
   assert/strict:assert
 
 {blueBright} = chalk

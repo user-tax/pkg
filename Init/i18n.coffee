@@ -1,6 +1,6 @@
 #!/usr/bin/env coffee
 
-> ./conf > ROOT
+> ~/ROOT
   ~/CONF > PKG
   path > join
   fs > existsSync

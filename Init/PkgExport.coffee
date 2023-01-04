@@ -2,7 +2,7 @@
 
 > path > join dirname basename
   ~/CONF > PKG
-  ./conf > ROOT
+  ~/ROOT
   fs > readdirSync existsSync
   utax/camel
   utax/write

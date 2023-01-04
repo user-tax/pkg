@@ -1,6 +1,6 @@
 #!/usr/bin/env coffee
 
-> ./conf > ROOT
+> ~/ROOT
   ~/CONF > PKG
   json5
   fs > existsSync
