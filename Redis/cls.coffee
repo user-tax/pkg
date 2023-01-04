@@ -1,6 +1,6 @@
 > utax/u8 > u8merge U8
   utax/utf8 > utf8e
-  ~/CONF > DEBUG
+  ~/Http/conf > DEBUG
 
 _prefix = (prefix, f)=>
   (k, args...)=>
