@@ -1,0 +1,7 @@
+*
+!.*
+!.direnv/**/*
+!package.json
+!pnpm-lock.yaml
+!*.coffee
+!*.yml

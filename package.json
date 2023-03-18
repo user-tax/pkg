@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@u7/node-loader": "^0.0.49"
+  },
+  "dependencies": {
+    "@u7/read": "^0.0.6",
+    "@u7/uridir": "^0.0.2",
+    "@u7/walk": "^0.0.10",
+    "@u7/write": "^0.0.9",
+    "@u7/yml": "^0.0.5",
+    "@w5/i18n": "^0.0.77",
+    "json5": "^2.2.3",
+    "zx": "^7.2.1"
+  }
+}
