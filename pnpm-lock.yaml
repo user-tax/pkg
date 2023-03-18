@@ -7,7 +7,7 @@ specifiers:
   '@u7/walk': ^0.0.10
   '@u7/write': ^0.0.9
   '@u7/yml': ^0.0.5
-  '@w5/i18n': ^0.0.78
+  '@w5/i18n': ^0.0.79
   json5: ^2.2.3
   zx: ^7.2.1
 
@@ -17,7 +17,7 @@ dependencies:
   '@u7/walk': 0.0.10
   '@u7/write': 0.0.9
   '@u7/yml': 0.0.5
-  '@w5/i18n': 0.0.78
+  '@w5/i18n': 0.0.79
   json5: 2.2.3
   zx: 7.2.1
 
@@ -209,8 +209,8 @@ packages:
       progress: 2.0.3
     dev: false
 
-  /@w5/i18n/0.0.78:
-    resolution: {integrity: sha512-QZ+liNvaS7/WkN90KY7Rh7SE7Nwdc5+H/6pnwrSSADNql7QXjPtzQ31s++GB2QOGorcPnVIly83C4vLYQf6vsA==}
+  /@w5/i18n/0.0.79:
+    resolution: {integrity: sha512-RRCirEWOB5AnQkjMK/gUFTFGW9NN/yfsT6yH/6Lai+TTPtW6H1lmXH7N2a2E9zLQDM5xqFkcGDl3CKvL1rEb7w==}
     hasBin: true
     dependencies:
       '@u6x/jsext': 0.0.27
@@ -227,7 +227,7 @@ packages:
       '@u7/xxhash3-wasm': 0.0.15
       '@u7/yml': 0.0.5
       '@w5/lang': 0.0.5
-      '@w5/trmd': 0.0.12
+      '@w5/trmd': 0.0.13
       chalk: 5.2.0
       cmark-gfm: 0.9.0
       get_default: 0.0.4
@@ -258,8 +258,8 @@ packages:
     resolution: {integrity: sha512-Yqs0nTOQvxrEXURkFEbxMKUyxFC0dn9+kQLHsWve2JMLtQfV9xN+NaEgcJj3LqaciwoIDfURjRlitWyVnCXIig==}
     dev: false
 
-  /@w5/trmd/0.0.12:
-    resolution: {integrity: sha512-CZxulsJ8bcEo1T/BJQpXw5haEcqvnGOzfrf2IaTkP0VSC+fZPP/EU2eTvVJ1uZQGPTlCraZ/Q69RadN7eaE76g==}
+  /@w5/trmd/0.0.13:
+    resolution: {integrity: sha512-FpGdlR13LMcs2a+K1sB9NvxV7HxV3hVPgG08mmFBvufbXQ2hnEwZquSiJA9SNEVQZrV4HobAocpFseahb3fkmg==}
     dependencies:
       '@u7/binmap': 0.0.11
       '@u7/blake3': 0.0.2
